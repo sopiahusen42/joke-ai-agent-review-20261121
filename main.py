@@ -10,7 +10,7 @@ import os
 import sys
 
 out = os.environ.get("MAKEFUN_OUTPUT_DIR", "/output")
-JOKE = "The AI agent's pull request said 'minor cleanup.' It deleted the database. The cleanup was minor. The database was major."
+JOKE = "I gave my AI agent a small task to test it. It finished in 40 seconds and asked me to review the PR. I've been reviewing for three days."
 
 
 def validate(text):
